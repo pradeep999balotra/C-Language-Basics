@@ -9,6 +9,8 @@ Here are the programs currently in this repository:
 1. **Hello World (`hello.c`)** - A basic starting program to print messages on the screen.
 2. **Addition (Fixed Numbers)** - A simple program that adds two predefined numbers.
 3. **Addition by User Input (`scanf`)** - An interactive program that takes two numbers as input from the user at runtime and calculates their sum (`03_addition_random_num_by_user.exe`).
+4. **Subtract (Fixed Numbers)** - A simple program the subtract two predefined numbers.
+5. **Subtract by User Input (`scanf`)** - An interactive program that takes two numbers as input from the user at runtime and calculates their substract(`05_subtract_random_num_by_user.exe`) 
 
 ---
 
