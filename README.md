@@ -58,11 +58,12 @@ C-Language-Basics/
 ├── 09_divison_random_num_by_user.c
 └── README.md
 
+
 ---
 
 
 
-# ▶️ How to Run the Programs
+## ▶️ How to Run the Programs
 
 You can run these programs using Visual Studio Code and a C compiler such as GCC.
 
