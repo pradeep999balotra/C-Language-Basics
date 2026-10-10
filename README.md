@@ -42,33 +42,32 @@ Currently, I have started with basic arithmetic operations in C:
 
 ## 📁 Repository Structure
 
-```text
-C-Language-Basics/
-│
-├── .vscode/
-├── output/
-├── 01_hello.c
-├── 02_addition_fixed_num.c
-├── 03_addition_random_num_by_user.c
-├── 04_subtract_fixed_num.c
-├── 05_subtract_random_num_by_user.c
-├── 06_multiplication_fixed_num.c
-├── 07_multiplication_random_num_by_user.c
-├── 08_divison_fixed_num.c
-├── 09_divison_random_num_by_user.c
-└── README.md
+* `C-Language-Basics/`
+  * `.vscode/`
+  * `output/`
+  * `01_hello.c`
+  * `02_addition_fixed_num.c`
+  * `03_addition_random_num_by_user.c`
+  * `04_subtract_fixed_num.c`
+  * `05_subtract_random_num_by_user.c`
+  * `06_multiplication_fixed_num.c`
+  * `07_multiplication_random_num_by_user.c`
+  * `08_divison_fixed_num.c`
+  * `09_divison_random_num_by_user.c`
+  * `README.md`
 
+*Note: The repository structure will grow as I add more programs and learn new concepts.*
 
 ---
-
-
 
 ## ▶️ How to Run the Programs
 
 You can run these programs using Visual Studio Code and a C compiler such as GCC.
 
 1. **Clone the repository**
-   `git clone https://github.com/pradeep999balotra/C-Language-Basics.git`
+   ```bash
+   git clone [https://github.com/pradeep999balotra/C-Language-Basics.git](https://github.com/pradeep999balotra/C-Language-Basics.git)
+
 
 2. **Open the project folder in VS Code**
    `cd C-Language-Basics`
