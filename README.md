@@ -62,7 +62,7 @@ C-Language-Basics/
 
 
 
-## ▶️ How to Run the Programs
+# ▶️ How to Run the Programs
 
 You can run these programs using Visual Studio Code and a C compiler such as GCC.
 
