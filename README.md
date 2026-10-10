@@ -42,6 +42,7 @@ Currently, I have started with basic arithmetic operations in C:
 
 ## 📁 Repository Structure
 
+```text
 C-Language-Basics/
 │
 ├── .vscode/
@@ -56,10 +57,6 @@ C-Language-Basics/
 ├── 08_divison_fixed_num.c
 ├── 09_divison_random_num_by_user.c
 └── README.md
-
-*Note: The repository structure will grow as I add more programs and learn new concepts.*
-
----
 
 ## ▶️ How to Run the Programs
 
